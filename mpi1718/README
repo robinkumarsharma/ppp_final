@@ -1,0 +1,13 @@
+MPI assignments for the Parallel Programming Practical (PPP)
+
+Content:
+
+- sor			Contains sequential version of the SOR algorithm
+			Create parallel version of the SOR algorithm there 
+			and name it sor-par.
+
+- docs			Place there your report.
+
+- bin			Contains sanity-checks (comparison with expected output)
+			Do not submit programs which do not go through sanity-checks successfully.
+
